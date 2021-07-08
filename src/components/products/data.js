@@ -8,7 +8,7 @@ import sweet3 from '../../images/cake-4.jpg';
 export const productData = [
   {
     img: product1,
-    alt: 'Pizza',
+    alt: 'Coffee',
     name: 'Cappuccino Classic',
    
     price: 'Rs.200',
@@ -16,7 +16,7 @@ export const productData = [
   },
   {
     img: product2,
-    alt: 'Pizza',
+    alt: 'Coffee',
     name: 'Latte',
     
     price: 'Rs.230',
@@ -24,7 +24,7 @@ export const productData = [
   },
   {
     img: product3,
-    alt: 'Pizza',
+    alt: 'Coffee',
     name: 'Mocha',
     
     price: 'Rs.300',
@@ -35,7 +35,7 @@ export const productData = [
 export const productDataTwo = [
   {
     img: sweet2,
-    alt: 'Donuts',
+    alt: 'cake',
     name: 'cup cake',
     
     price:'Rs.30',
@@ -43,7 +43,7 @@ export const productDataTwo = [
   },
   {
     img: sweet3,
-    alt: 'Ice Cream',
+    alt: 'cake',
     name: 'brownie cake',
     
     price: 'Rs.120',
@@ -51,7 +51,7 @@ export const productDataTwo = [
   },
   {
     img: sweet1,
-    alt: 'Brownie',
+    alt: 'cake',
     name: 'cream cake',
     price: 'Rs.50',
     button: 'Add to Cart'
